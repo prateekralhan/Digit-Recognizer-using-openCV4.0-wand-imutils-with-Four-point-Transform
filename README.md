@@ -5,7 +5,7 @@ A Digit recognizer made using OpenCV4.0 and imutils with Four-Point Perspective 
 1. OpenCV:
 Find the complete installation guide here: https://www.pyimagesearch.com/opencv-tutorials-resources-guides/
 
-2. imutils,argparse,numpy:
-Do : _pip install numpy_
+2. imutils:
+Do : _pip install imutils_
 
 ### Consider the Input Image: 
